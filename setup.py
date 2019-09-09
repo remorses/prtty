@@ -1,6 +1,6 @@
 from setuptools import setup
 
-NAME = 'module'
+NAME = 'prtty'
 setup(
     name=NAME,
     # [bump]
